@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "8a2848e246e7b6e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4516ec2040df23a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e4ede1266bd08cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1768.交替合并字符串.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e33dc16bfb71940",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd22fc06df623601",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfc53a9bb2a106aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3166aa5ef7db6163",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c1c853214fd4e595",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a755e2763c2ff96c",
+    "type": "split",
+    "children": [
+      {
+        "id": "586f39a8f80be2e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d921ae547c1a11e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1768.交替合并字符串.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4d2316b90c30285",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1768.交替合并字符串.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6cc39c0d82a75082",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "74e5754de5af0afc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1768.交替合并字符串.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "8e4ede1266bd08cb",
+  "lastOpenFiles": [
+    "1431.拥有最多糖果的孩子.md",
+    "1071.字符串的最大公因子.md",
+    "605.种花问题.md",
+    "345.反转字符串中的元音字母.md",
+    "334.递增的三元子序列.md",
+    "238.除自身以外数组的乘积.md",
+    "151.反转字符串中的单词.md",
+    "1768.交替合并字符串.md",
+    "Pasted image 20240325210625.png",
+    "Pasted image 20240325210511.png",
+    "LeetCode 75",
+    "Welcome.md"
+  ]
+}
